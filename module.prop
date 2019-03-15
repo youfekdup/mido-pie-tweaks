@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=midoPtweaks
+name=Mido Pie Tweaks
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=youfekdup
+description=Some tweaks for Pie roms.
 minMagisk=17000
